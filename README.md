@@ -248,6 +248,8 @@ O que é essa lista?
 - dinâmico = aprendido automaticamente via ARP e expira depois de um tempo
 - estático = entradas especiais (broadcast/multicast) ou fixas
 
+Quer aumentar a sua lista? Então dê um ```ping 192.168.X.X``` no notebook do seu colega vizinho, e depois dê outro ```arp -a``` para atualizar seu cache ARP.
+
 #### (4.22) Vamos conferir qual largura de banda você está conectado. Seu cabo está em 100Mbps ou 1Gbps?
 
 ```
