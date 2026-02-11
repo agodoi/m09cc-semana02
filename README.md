@@ -168,7 +168,7 @@ Atenção: as ferramentas terão que ser compartilhadas.
 
 #### (4.8) Segurando o cabo dentro do conector, pegue o alicate, encaixe o conector no espaço e esmague o conector com a força do ódio;
 
-<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/06.jpg" width="300">
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/07.jpg" width="300">
 
 #### (4.9) Solte o conector do alicate e aguarde a outra ponta ficar pronta para seguir;
 
