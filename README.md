@@ -86,22 +86,22 @@ Crimpar um cabo UTP (Unshielded Twisted Pair) Cat 5 exige atenção a alguns det
 **e)** Escolha do Padrão Correto
    - Decida entre o padrão **T568A** ou **T568B** e certifique-se de seguir o mesmo padrão em ambas as extremidades do cabo, especialmente se estiver fazendo um cabo patch.
    - As combinações de cores para o padrão T568A são:
-     - pino (1) Verde/Branco
+     - pino (1) Branco/Verde
      - pino (2) Verde
-     - pino (3) Laranja/Branco
+     - pino (3) Branco/Laranja
      - pino (4) Azul
-     - pino (5) Azul/Branco
+     - pino (5) Branco/Azul
      - pino (6) Laranja
-     - pino (7) Marrom/Branco
+     - pino (7) Branco/Marrom
      - pino (8) Marrom
    - Para o padrão T568B (mais usado em redes residenciais):
-     - pino (1) Laranja/Branco
+     - pino (1) Branco/Laranja
      - pino (2) Laranja
-     - pino (3) Verde/Branco
+     - pino (3) Branco/Verde
      - pino (4) Azul
-     - pino (5) Azul/Branco
+     - pino (5) Branco/Azul
      - pino (6) Verde
-     - pino (7) Marrom/Branco
+     - pino (7) Branco/Marrom
      - pino (8) Marrom
 
 #### Atenção: 
@@ -145,13 +145,13 @@ Atenção: as ferramentas terão que ser compartilhadas.
 
 #### (4.5) Coloque as vias na ordem correta
 
-   - pino (1) Verde/Branco
+   - pino (1) Branco/Verde
    - pino (2) Verde
-   - pino (3) Laranja/Branco
+   - pino (3) Branco/Laranja
    - pino (4) Azul
-   - pino (5) Azul/Branco
+   - pino (5) Branco/Azul
    - pino (6) Laranja
-   - pino (7) Marrom/Branco
+   - pino (7) Branco/Marrom
    - pino (8) Marrom
 
 <img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/03.jpg" width="300">
@@ -173,6 +173,8 @@ Atenção: as ferramentas terão que ser compartilhadas.
 #### (4.9) Solte o conector do alicate e aguarde a outra ponta ficar pronta para seguir;
 
 #### (4.10) Pegue o testador de cabo, conecte qualquer ponta nos encaixes e ligue-o. Os LEDS precisam piscar um ao lado do outro sincronizadamente. Se isso aconteceu, SUCESSO!
+
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/test.png" width="300">
 
 #### (4.11) Caso algum LED tenha falhado, faça: esmague novamente os 2 conectores e teste novamente;
 
