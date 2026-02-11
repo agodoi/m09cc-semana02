@@ -187,7 +187,7 @@ Atenção: as ferramentas terão que ser compartilhadas.
 
 #### (4.15) Abra o navegador e veja a Internet funcionando;
 
-#### (4.15) Agora vamos pegar alguns dados da sua rede física
+#### (4.16) Agora vamos pegar alguns dados da sua rede física
 
 No terminal, digite:
 
@@ -204,7 +204,7 @@ ip a
 
 Tome nota do seu IP local. Deve começar com 192.168...
 
-#### (4.16) Agora, vamos fazer um simples teste de carga usando o protocolo ICMP - Internet Control Message Protocol. Abra um terminal CMD e ping o seu gateway, isto é, o IP do roteador que você está conectado. Substitua o X pelo valor que você leu no seu comando anterior.
+#### (4.17) Agora, vamos fazer um simples teste de carga usando o protocolo ICMP - Internet Control Message Protocol. Abra um terminal CMD e ping o seu gateway, isto é, o IP do roteador que você está conectado. Substitua o X pelo valor que você leu no seu comando anterior.
 
 Windows
 ```
@@ -216,13 +216,13 @@ Linux
 ping 192.168.X.1 -s 1400 -c 200
 ```
 
-#### (4.17) Verifique o comportamento do TEMPO. Ele está variando muito? Está alto? Está baixo? Quantos hosts tem na rede fazendo testes?
+#### (4.18) Verifique o comportamento do TEMPO. Ele está variando muito? Está alto? Está baixo? Quantos hosts tem na rede fazendo testes?
 
-#### (4.18) Agora vamos tentar encontrar o pior cabo da sala... O pior vai ganhar um chocolate
+#### (4.19) Agora vamos tentar encontrar o pior cabo da sala... O pior vai ganhar um chocolate
 
 <img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/pimentinha.png" width="300">
 
-#### (4.19) Todos os pares desplugam o seu cabo do switch, e por ordem, cada dupla pluga na mesma porta 1 do switch e executa um ping para o roteador que você está conectado diretamente:
+#### (4.20) Todos os pares desplugam o seu cabo do switch, e por ordem, cada dupla pluga na mesma porta 1 do switch e executa um ping para o roteador que você está conectado diretamente:
 
 Windows
 ```
@@ -236,7 +236,7 @@ ping 192.168.X.1 -s 10000 -c 10
 
 #### e diga ao professor os 3 maiores valores de tempo. Se der um pacote "tempo esgotado", a dupla já saiu na frente.
 
-#### (4.20) Vamos mapear nossa rede. Todos dêem esse comando:
+#### (4.21) Vamos mapear nossa rede. Todos dêem esse comando:
 
 Windows
 ```
@@ -248,7 +248,7 @@ Linux
 traceroute 8.8.8.8
 ```
 
-#### (4.21) Vamos descobrir os IP que você já conversou nesta rede.
+#### (4.22) Vamos descobrir os IP que você já conversou nesta rede.
 
 Windows
 ```
@@ -269,7 +269,7 @@ O que é essa lista?
 
 Quer aumentar a sua lista? Então dê um ```ping 192.168.X.X``` no notebook do seu colega vizinho, e depois dê outro ```arp -a``` para atualizar seu cache ARP.
 
-#### (4.22) Vamos conferir qual largura de banda você está conectado. Seu cabo está em 100Mbps ou 1Gbps? No terminal, digite:
+#### (4.23) Vamos conferir qual largura de banda você está conectado. Seu cabo está em 100Mbps ou 1Gbps? No terminal, digite:
 
 
 Windows
