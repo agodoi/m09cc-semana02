@@ -16,10 +16,9 @@ A **topologia física** se refere à disposição real e física dos cabos, disp
 
 Para o padrão Ethernet, adota-se **Estrela** que também pode ser estendido para **Estrela Estendida** quando uma estrela dá origem para outra estrela.
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/SubRedes/blob/main/imgs/estrela_extendida.png">
-   <img alt="Estrela Estendida" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/SubRedes/blob/main/imgs/estrela_extendida.png)">
-</picture>
+
+<img src="https://github.com/agodoi/SubRedes/blob/main/imgs/estrela_extendida.png" width="400">
+
 
 ### (1.2) Topologia Lógica
 
@@ -101,6 +100,8 @@ Crimpar um cabo UTP (Unshielded Twisted Pair) Cat 5 exige atenção a alguns det
      - pino (6) Verde
      - pino (7) Branco/Marrom
      - pino (8) Marrom
+    
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/padroes.webp" width="400">
 
 #### Atenção: 
 
