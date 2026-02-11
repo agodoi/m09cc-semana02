@@ -198,3 +198,8 @@ Linux
 ```
 ping 192.168.0.1 -s 1400 -c 200
 ```
+#### (4.17) Verifique o comportamento do TEMPO. Ele está variando muito? Está alto? Está baixo? Quantos hosts tem na rede fazendo testes?
+
+#### (4.18) Agora vamos tentar encontrar o pior cabo da sala... 
+
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/pimentinha.png" width="300">
