@@ -155,7 +155,7 @@ Atenção: as ferramentas terão que ser compartilhadas.
 
 <img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/03.jpg" width="300">
 
-#### (4.6) Sem soltar a organização das vias, apare as pontas das vias por igual de modo que sobre 1,5 dedo de comprimento;
+#### (4.6) Sem soltar a organização das vias, apare as pontas das vias por igual de modo que sobre 1,5 dedo de via desencapada;
 
 <img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/04.jpg" width="300">
 
